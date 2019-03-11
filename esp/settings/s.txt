@@ -1,0 +1,8 @@
+host=
+path=
+ssid=
+pwd=
+err=
+boot=
+domain=
+update=
